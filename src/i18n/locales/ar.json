@@ -1,0 +1,13 @@
+{
+    "welcome": "مرحبًا بك في موقعنا!",
+    "change_language": "تغيير اللغة",
+    "home": {
+        "title": "مرحبًا بك في FeedbackDZ",
+        "description": "شارك ملاحظاتك وصوّت على الأفكار الجديدة."
+      },
+    "buttons": {
+        "submit": "إرسال",
+        "cancel": "إلغاء"
+      }
+  }
+  

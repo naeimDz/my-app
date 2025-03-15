@@ -1,0 +1,13 @@
+{
+    "welcome": "Welcome to our website!",
+    "change_language": "Change Language",
+    "home": {
+      "title": "Welcome to FeedbackDZ",
+      "description": "Share your feedback and vote for new ideas."
+    },
+    "buttons": {
+      "submit": "Submit",
+      "cancel": "Cancel"
+    }
+  }
+  
