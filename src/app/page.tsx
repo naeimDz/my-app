@@ -15,6 +15,9 @@ export default async function Home() {
     <div>
       <h1>🚀 Welcome to FeedbackDZ!</h1>
       <p>Next.js + TypeScript setup is complete.</p>
+      <div className="flex min-h-screen items-center justify-center bg-gray-100">
+        <h1 className="text-4xl font-bold text-blue-600">🚀 Tailwind CSS يعمل بنجاح!</h1>
+      </div>
     </div>
   );
 }
