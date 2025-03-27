@@ -1,13 +1,20 @@
-
+//path src/app/layout.tsx
 import "./globals.css";
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
-}: Readonly<{
+  params
+}: {
   children: React.ReactNode;
-}>) {
+  params: { locale: string };
+}) {
+  // استخراج اللغة المطلوبة
+  const { locale } =  params;
+
+
+
   return (
-    <html>
+    <html lang={locale}>
       <body>
         {children}
       </body>
