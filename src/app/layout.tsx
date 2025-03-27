@@ -14,7 +14,6 @@ export default function RootLayout({
   return (
     <html>
       <body >
-      <I18nProvider locale={params.locale}>{children}</I18nProvider>
         {children}
       </body>
     </html>
